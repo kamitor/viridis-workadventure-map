@@ -342,6 +342,11 @@
                  "name":"jitsiChillZone",
                  "properties":[
                         {
+                         "name":"XXjitsiTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
                          "name":"focusable",
                          "type":"bool",
                          "value":true
@@ -355,11 +360,6 @@
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"ChillZone"
-                        }, 
-                        {
-                         "name":"jitsiTrigger",
-                         "type":"string",
-                         "value":"onaction"
                         }, 
                         {
                          "name":"zoom_margin",
@@ -396,6 +396,11 @@
                  "name":"jitsiMeetingRoom",
                  "properties":[
                         {
+                         "name":"XXXjitsiTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
                          "name":"focusable",
                          "type":"bool",
                          "value":true
@@ -409,11 +414,6 @@
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"MeetingRoom"
-                        }, 
-                        {
-                         "name":"jitsiTrigger",
-                         "type":"string",
-                         "value":"onaction"
                         }, 
                         {
                          "name":"zoom_margin",
@@ -433,6 +433,11 @@
                  "name":"jitsiMeetingRoom",
                  "properties":[
                         {
+                         "name":"XXXjitsiTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
                          "name":"focusable",
                          "type":"bool",
                          "value":true
@@ -446,11 +451,6 @@
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"MeetingRoom"
-                        }, 
-                        {
-                         "name":"jitsiTrigger",
-                         "type":"string",
-                         "value":"onaction"
                         }, 
                         {
                          "name":"zoom_margin",
